@@ -1,0 +1,15 @@
+(lp0
+S'\n'
+p1
+aS'Google\tORGANIZATION\tbought\n'
+p2
+aS'IBM\tORGANIZATION\tfor\n'
+p3
+aS'10 dollars\tMONEY\t.\n'
+p4
+ag1
+ag1
+aS'Mike\tPERSON\twas happy about this deal .\n'
+p5
+ag1
+a.
