@@ -25,8 +25,7 @@ def debug_print(log, verbose):
         print(log)
 
 
-def process_entity_relations(entity_relations_str, verbose=True):
-    # format is ollie.
+def process_entity_relations(entity_relations_str, verbose=True):    
     entity_relations = list()
     for s in entity_relations_str:
         entity_relations.append(s[s.find("(") + 1:s.find(")")].split(';'))
